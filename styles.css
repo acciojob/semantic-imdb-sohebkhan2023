@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+#actor,#quote
+{
+	margin:20px;
+	background-color:black;
+	color:red;
+}
